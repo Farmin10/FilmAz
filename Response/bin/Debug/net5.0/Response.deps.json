@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Response/1.0.0": {
+        "dependencies": {
+          "DTO's": "1.0.0"
+        },
+        "runtime": {
+          "Response.dll": {}
+        }
+      },
+      "DTO's/1.0.0": {
+        "runtime": {
+          "DTO's.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Response/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DTO's/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

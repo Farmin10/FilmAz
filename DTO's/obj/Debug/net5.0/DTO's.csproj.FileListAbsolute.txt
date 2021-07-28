@@ -1,0 +1,12 @@
+C:\Users\farmi\source\repos\FilmAz\DTO's\bin\Debug\net5.0\DTO's.deps.json
+C:\Users\farmi\source\repos\FilmAz\DTO's\bin\Debug\net5.0\DTO's.dll
+C:\Users\farmi\source\repos\FilmAz\DTO's\bin\Debug\net5.0\ref\DTO's.dll
+C:\Users\farmi\source\repos\FilmAz\DTO's\bin\Debug\net5.0\DTO's.pdb
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.csproj.AssemblyReference.cache
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.AssemblyInfoInputs.cache
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.AssemblyInfo.cs
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.csproj.CoreCompileInputs.cache
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.dll
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\ref\DTO's.dll
+C:\Users\farmi\source\repos\FilmAz\DTO's\obj\Debug\net5.0\DTO's.pdb
