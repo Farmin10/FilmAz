@@ -1,4 +1,6 @@
-﻿using DTO_s.FilmCategoryDTO;
+﻿using DTO_s.CategoryDTO;
+using DTO_s.FilmCategoryDTO;
+using DTO_s.FilmDTO;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,9 +11,8 @@ namespace Response.FilmCategoryResponse
 {
     public class ResponseForFilmCategoryAddOrUpdate
     {
-        public int FilmId { get; set; }
-        public string  FilmName { get; set; }
-        public List<FilmCategoryForGetDto> FilmCategories { get; set; }
+        public FilmForGetDto Film { get; set; }
+        public CategoryForGetDto Category { get; set; }
        
     }
 }

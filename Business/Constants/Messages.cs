@@ -12,5 +12,7 @@ namespace Business.Constants
         public static string ErrorOccured = "Xeta bas verdi";
 
         public static string FilmAddedSuccessfully = "Film ugurla elave olundu";
+
+        public static string DataListedSuccessfully = "Melumallar ugurla siyahilandi";
     }
 }

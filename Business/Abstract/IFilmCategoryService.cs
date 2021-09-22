@@ -11,6 +11,6 @@ namespace Business.Abstract
 {
     public interface IFilmCategoryService
     {
-        Task<IDataResult<ResponseForFilmCategoryAddOrUpdate>> Add(FilmCategoryForAddDto filmCategoryAddDto);
+        Task<IDataResult<List<ResponseForFilmCategoryAddOrUpdate>>> Add(FilmCategoryForAddDto filmCategoryAddDto);
     }
 }

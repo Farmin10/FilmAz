@@ -24,8 +24,8 @@ namespace FilmAzWebApi.Controllers
         [HttpPost("addFilmCategory")]
         public async Task<IActionResult> AddFilmCategory(FilmCategoryForAddDto filmCategoryForAddDto)
         {
-            await _filmCategoryService.Add(filmCategoryForAddDto);
-            return Ok();
+            var result= await _filmCategoryService.Add(filmCategoryForAddDto);
+            return Ok(result);
         }
     }
 }
